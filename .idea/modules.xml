@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/big-data-plan.iml" filepath="$PROJECT_DIR$/big-data-plan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/canal/canal.iml" filepath="$PROJECT_DIR$/canal/canal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data/data.iml" filepath="$PROJECT_DIR$/data/data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo/dubbo.iml" filepath="$PROJECT_DIR$/dubbo/dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elasticsearch/elasticsearch.iml" filepath="$PROJECT_DIR$/elasticsearch/elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flume/flume.iml" filepath="$PROJECT_DIR$/flume/flume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase/hbase.iml" filepath="$PROJECT_DIR$/hbase/hbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka/kafka.iml" filepath="$PROJECT_DIR$/kafka/kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapreduce/mapreduce.iml" filepath="$PROJECT_DIR$/mapreduce/mapreduce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis/redis.iml" filepath="$PROJECT_DIR$/redis/redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq/rocketmq.iml" filepath="$PROJECT_DIR$/rocketmq/rocketmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storm/storm.iml" filepath="$PROJECT_DIR$/storm/storm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/util/util.iml" filepath="$PROJECT_DIR$/util/util.iml" />
+    </modules>
+  </component>
+</project>

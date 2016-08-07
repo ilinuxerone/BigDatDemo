@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="canal" />
+        <module name="data" />
+        <module name="dubbo" />
+        <module name="elasticsearch" />
+        <module name="flume" />
+        <module name="hbase" />
+        <module name="kafka" />
+        <module name="mapreduce" />
+        <module name="redis" />
+        <module name="rocketmq" />
+        <module name="storm" />
+        <module name="util" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="big-data-plan" target="1.7" />
+      <module name="canal" target="1.7" />
+      <module name="data" target="1.7" />
+      <module name="dubbo" target="1.7" />
+      <module name="elasticsearch" target="1.7" />
+      <module name="flume" target="1.7" />
+      <module name="hbase" target="1.7" />
+      <module name="kafka" target="1.7" />
+      <module name="mapreduce" target="1.7" />
+      <module name="redis" target="1.7" />
+      <module name="rocketmq" target="1.7" />
+      <module name="storm" target="1.7" />
+      <module name="util" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
